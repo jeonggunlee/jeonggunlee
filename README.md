@@ -1,4 +1,4 @@
-### Hi~! You can find the details about me at http://www.onchip.net 
+### :octocat: Hi~! You can find the details about me at ✨ http://www.onchip.net ✨
 
 <!--
 **jeonggunlee/jeonggunlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
