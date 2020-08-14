@@ -1,5 +1,7 @@
 ### :octocat: Hi~! You can find the details about me at ✨ http://www.onchip.net ✨
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jeonggunlee)
+
 <!--
 **jeonggunlee/jeonggunlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
