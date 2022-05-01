@@ -10,7 +10,7 @@
       - Department Chair(컴퓨터공학학과장/빅데이터전공주임), Feb. 2018 ~ June 2019
       - Director of Open Source SW Education Center, April. 2018 ~ June 2019
    
-  - 🔭 What I am working on ...
+   - 🔭 What I am working on ...
      - I am now working on **deep learning and its application** (Particularly for the medical application).
      - In addition, I am also interested in **hardware accelerator design for deep learning**.
   
