@@ -5,7 +5,7 @@
  * Dr.  Jeong-Gun Lee ( 이정근 )
  
    - Work
-      - School of Software / Dept. of Computer Engineering, Hallym University, South Korea
+      - Division of Software / Dept. of Computer Engineering, College of Information and Science, Hallym University, South Korea
       - Vice President for Student Affairs (학생처장), July 2019 - June 2021
       - Department Chair(컴퓨터공학학과장/빅데이터전공주임), Feb. 2018 ~ June 2019
       - Director of Open Source SW Education Center, April. 2018 ~ June 2019
