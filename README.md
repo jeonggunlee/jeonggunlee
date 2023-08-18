@@ -7,7 +7,7 @@
    - Work
       - Division of Software, College of Information Science, Hallym University, South Korea
       - Vice President for Student Affairs (학생처장), July 2019 - June 2021
-      - Department Chair(컴퓨터공학학과장/빅데이터전공주임), Feb. 2018 ~ June 2019
+      - Department Chair(컴퓨터공학학과장/[빅데이터전공](https://www.hallym.ac.kr/.resources/preview/doc.html?fn=dam_4beb0a50-e182-4faa-9c0d-3b29f671f016_1681346723320.pdf&rs=/.preview/)주임), Feb. 2018 ~ June 2019
       - Director of Open Source SW Education Center, April. 2018 ~ June 2019
    
    - 🔭 What I am working on ...
