@@ -2,7 +2,7 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jeonggunlee)
 
- * Dr.  Jeong-Gun Lee ( 이정근 )
+ * Dr.  [Jeong-Gun Lee ( 이정근 )](https://sites.google.com/site/embeddedsochallymuniv/esoc/jeonggunlee)
  
    - Work
       - [Division of Software](https://sw.hallym.ac.kr), College of Information Science, [Hallym University](https://www.hallym.ac.kr), South Korea
